@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sravya 👋
 
-<!--
-**sravyathalloju10/sravyathalloju10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Student
 
-Here are some ideas to get you started:
+🔧 Interested in:
+- Embedded Systems
+- IoT
+- Arduino
+- Electronics Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning:
+- Embedded C
+- Arduino Programming
+- Circuit Design
+
+🚀 Passionate about learning new technologies and building practical electronics projects.
